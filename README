@@ -1,0 +1,38 @@
+-------------------------------------------------------------
+ ::  TWScripter Player Package v0.1.1  ::
+------------------------------------------------------------- 
+
+Thank you for downloading the TWScripter Player Package...
+
+The 'TWScripter Player Package' combines the Mac TradeWars helper 'TWScripter' together with useful custom scripts and tools into one comprehensive package. 
+
+-------------------------------------------------------------
+ ::  INFO  ::
+------------------------------------------------------------- 
+
+This Package Includes: 
+
+- TWScripter version 3.0.0b11 by Micah Koch. Please read "Docs/Readme 3.0.0b11.txt" for details.
+- "BOT" and scripts created by Colin Stagner (aka Cbs228).
+- Other various user created scripts.
+
+The most updated version of this package can be found at: http://code.google.com/p/twscripter/
+
+More information about this package can be found at: http://www.twscripter.com
+
+Visit the home of the original TWScripter app: http://twscripter.mkkoch.com/
+
+
+
+-------------------------------------------------------------
+ ::  CHANGE LOG  ::
+-------------------------------------------------------------
+
+
+v0.1.1
+- Updated application icon
+- Changed frequently used scripts from SAY commands to Growl Notifications
+- Fixed line endings on all scripts
+
+v0.1
++ assembled the bot, scripts, new icon, documentation and TWScripter application into this combined package.
